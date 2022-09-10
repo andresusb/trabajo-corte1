@@ -1,0 +1,16 @@
+
+.YOULIGHT {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 33%;
+    background-color: white;
+}
+
+.subtitle{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
